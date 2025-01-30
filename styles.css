@@ -4,4 +4,6 @@ table {
     color: white;
     font-family: 'Courier New'; /* betűtipus */
     font-size: 30px; /* betűméret */
-  }
+  } 
+  td {background-color: blue;
+}
