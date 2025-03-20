@@ -40,6 +40,6 @@ table   {
   ```
 
 ### 🔧 Fejlesztési lehetőségek
-- [x] 🔁 Dinamikus betöltés API-n keresztül.
+- [ ] 🔁 Dinamikus betöltés API-n keresztül.
 - [ ] 🔎 Keresési vagy szűrési lehetőség.
 - [x] 📱 Megfelelő megjelnítés különbözö mobil eszközön is.
