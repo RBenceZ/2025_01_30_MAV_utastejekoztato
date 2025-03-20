@@ -26,6 +26,8 @@ A projekt megtekinthető az alábi linken:
         <link rel="stylesheet" href="styles.css">
     </head>
 ```
+
+
 ### 📌 Alap CSS szerkezet table 
 ```css
 table   {
@@ -37,4 +39,7 @@ table   {
         } 
   ```
 
-
+### 🔧 Fejlesztési lehetőségek
+- [x] 🔁 Dinamikus betöltés API-n keresztül.
+- [ ] 🔎 Keresési vagy szűrési lehetőség.
+- [x] 📱 Megfelelő megjelnítés különbözö mobil eszközön is.
