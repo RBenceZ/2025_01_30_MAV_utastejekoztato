@@ -8,7 +8,7 @@ Ez a projekt induló és érkező vonatok megjelnítését biztosítja. Az oldal
 - sima, egyszerű és letisztult dizájn
 
 ### Használat
-Nyisd meg a https://github.com/RBenceZ/2025_01_30_MAV_utastejekoztato.git weboldalt a böngészőben, és láthatod a táblázatot és az abban lévő információkat
+Nyisd meg https://github.com/RBenceZ/2025_01_30_MAV_utastejekoztato.git linekn lévő weboldalt a böngészőben, és láthatod a táblázatot és az abban lévő információkat
 
 ### Élő demó
 
